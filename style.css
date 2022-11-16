@@ -118,7 +118,7 @@ html{
     flex-basis:80%;
     position: relative;
     /* width:100%; */
-    background:#EEF5FD;
+    background:#F6F7FC;
     /* border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;  */
     overflow: hidden;
@@ -201,7 +201,7 @@ html{
     justify-content:space-evenly;
 }
 .card__protofolio{
-    background:#F8F9FE;
+    background:#FDFDFF;
     padding:10px;
     border-radius:5px;
     transition:0.7s;
