@@ -265,7 +265,7 @@ font-weight:600;
     border-radius:10px;
     box-shadow: 2px 4px 4px 3px grey;
     transition:0.5s;
-    max-width: 550px;
+    max-width: 650px;
 }
 .img__contaier img:hover{
     transform: scale(1.02);
