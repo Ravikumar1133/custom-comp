@@ -1,0 +1,2 @@
+# custom-comp
+custom component
