@@ -15,9 +15,7 @@ html{
     background-size:cover;
  }
 .container{   
-    margin:auto;
-    min-width:900px;
-    max-width:1200px;
+   
 }
 .col{
     display: flex;
@@ -28,8 +26,8 @@ html{
     position: relative;
     /* width:100%; */
     background:rgb(2, 2, 67);
-     border-top-left-radius:20px;
-    border-bottom-left-radius:20px; 
+     /* border-top-left-radius:20px;
+    border-bottom-left-radius:20px;  */
     overflow: hidden;
 }
 .logo__img{
@@ -121,8 +119,8 @@ html{
     position: relative;
     /* width:100%; */
     background:#EEF5FD;
-    border-top-right-radius: 20px;
-    border-bottom-right-radius: 20px; 
+    /* border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;  */
     overflow: hidden;
 }
 .nav__bar{
@@ -263,11 +261,11 @@ font-weight:600;
     
 }
 .img__contaier img{
-
     background-size: cover;
     border-radius:10px;
     box-shadow: 2px 4px 4px 3px grey;
     transition:0.5s;
+    max-width: 550px;
 }
 .img__contaier img:hover{
     transform: scale(1.02);
